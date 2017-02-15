@@ -27,7 +27,7 @@ But things change.. dependent software changes, customer needs change.
 
 We'll be talking about/using a better model/methodology of SDLC in particular. Agile Software Developement
 
-![Pennies Exercise](https://github.com/ga-wdi-exercises/pennies) (20 min)
+[Pennies Exercise](https://github.com/ga-wdi-exercises/pennies) (20 min)
 
 ## Agile Software Development (10 min)
 *Official* wikipedia definition. Agile Software Development is a group of software development methods in which requirements and solutions evolve through collaboration between self-organizing, cross-functional teams.
