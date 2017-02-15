@@ -10,11 +10,11 @@
 - Differentiate MVP from application.
 - Generate user stories in order to create proof of concept for MVP(minimum viable product)
 
-## Opening Framing
+## Opening Framing (5 min)
 
 What does mean to be a developer? Do we, as developers, just sit in our mom's basement, drinking mountain dew absent minded from the outside world and just code all day? Maybe. Hopefully not. Development is not just about coding. Planning, preparing, discussion and iteration is in our lifeblood. It's integral to how effective development happens. Let's look at [facebook from 10 years ago](http://editorial.designtaxi.com/news-facebook050214/2.jpg). Now, let's look at facebook [now](http://rack.0.mshcdn.com/media/ZgkyMDE0LzA1LzI5LzIxLzIwMTB6dWNrLmQ0NGNiLmpwZwpwCXRodW1iCTg1MHg4NTA-CmUJanBn/461e20d3/dcf/2010zuck.jpg). Clearly these changes didn't happen overnight. Some serious planning and development methodologies went into this.
 
-## SDLC
+## SDLC (10 min)
 THE SDLC is the software development life cycle, also referred to as the application development life-cycle. It is a term used to describe a process for planning, creating, testing, and deploying an information system.
 
 One form of SDLC is the waterfall methodology.
@@ -27,7 +27,9 @@ But things change.. dependent software changes, customer needs change.
 
 We'll be talking about/using a better model/methodology of SDLC in particular. Agile Software Developement
 
-## Agile Software Development
+![Pennies Exercise](https://github.com/ga-wdi-exercises/pennies) (20 min)
+
+## Agile Software Development (10 min)
 *Official* wikipedia definition. Agile Software Development is a group of software development methods in which requirements and solutions evolve through collaboration between self-organizing, cross-functional teams.
 
 ### Agile Manifesto
@@ -144,13 +146,17 @@ A wireframe is a simple blueprint/template/sketch/visual outline of the componen
 - READ ME: [Wireframe Basics](https://www.gliffy.com/uses/wireframe-software/)
 - Curious to learn more about wireframes? Ask a UXDI student!
 
+### Paper Planes! (In class exercise)
+
 ## Closing
 We have just had a crash course in the some of the basics involved in the development process, project management, and idea development.
 
 The important thing for this course is how we use these tools, principles and methodologies to help us plan for, and work efficiently on our projects.
 
+Creating user-stories, tasks, and a good development process is integral to our success as developers. Adopting agile methodologies and best practices help us to be adaptable, quality-focused, and efficient.
+
 ## Homework
-The only homework from this lesson is to use what we've learned today and apply it for our first project.
+The only homework from this lesson is to use what we've learned today and apply it for our future applications and our next project.
 
 ## Resources
 - [Write Better User Stories](http://codesqueeze.com/the-easy-way-to-writing-good-user-stories/)
