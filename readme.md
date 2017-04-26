@@ -12,10 +12,10 @@
 
 ## Opening Framing
 
-What does mean to be a developer? Do we, as developers, just sit in our mom's basement, drinking mountain dew absent minded from the outside world and just code all day? Maybe. Hopefully not. Development is not just about coding. Planning, preparing, discussion and iteration is in our lifeblood. It's integral to how effective development happens. 
+What does it mean to be a developer? Do we, as developers, just sit in our mom's basement, drinking mountain dew absent minded from the outside world and just code all day? Maybe. Hopefully not. Development is not just about coding. Planning, preparing, discussion and iteration is in our lifeblood. It's integral to how effective development happens.
 Let's look at facebook ten years ago compared to today:
 ### Ten years ago
-![facebook from 10 years ago](http://editorial.designtaxi.com/news-facebook050214/2.jpg). 
+![facebook from 10 years ago](http://editorial.designtaxi.com/news-facebook050214/2.jpg).
 ### Today
 ![now](https://cloud.githubusercontent.com/assets/7882341/25438675/3d749d80-2a68-11e7-9821-94d0bf1d9553.png)
 
@@ -109,7 +109,7 @@ specific and implementable user story
 As a user, I should be able to message other users so that I can communicate with my family
 ```
 
-general user story does not provide insights as to how the goal should be met
+general user story that does not provide insights as to how the goal should be met
 ```
 This app should have a really good social networking engine.
 ```
